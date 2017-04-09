@@ -18,6 +18,21 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Input.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStateManager.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Level2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="System.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3DPipelineTools.h">
@@ -66,6 +81,24 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Level2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

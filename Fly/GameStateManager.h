@@ -1,0 +1,8 @@
+//
+// Created by wei on 2017/4/9.
+//
+
+#ifndef FLY_GAMESTATEMANAGER_H
+#define FLY_GAMESTATEMANAGER_H
+
+#endif //FLY_GAMESTATEMANAGER_H
